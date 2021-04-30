@@ -1,0 +1,33 @@
+# SistemaExercicioGit1
+
+Comandos Utilizados:
+
+git init
+
+git status
+
+echo -n bin/ > .gitignore
+
+git add .
+
+git commit -m 
+
+git log
+
+git log --oneline
+
+git diff 
+
+git add client.js
+
+git commit -am 
+
+git diff HEAD HEAD~1
+
+git diff HEAD HEAD~2
+
+git mv 
+
+git reset --hard HEAD~1
+
+git restore --staged client.js
